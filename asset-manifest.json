@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-HarryPotterCharacters/static/css/main.b493d093.css",
+    "main.js": "/React-HarryPotterCharacters/static/js/main.f9c33b1f.js",
+    "static/media/spinner.gif": "/React-HarryPotterCharacters/static/media/spinner.11d9cde8ebaeadb07ba7.gif",
+    "static/media/bg.jpg": "/React-HarryPotterCharacters/static/media/bg.085908ea8f76e1ae1806.jpg",
+    "index.html": "/React-HarryPotterCharacters/index.html",
+    "main.b493d093.css.map": "/React-HarryPotterCharacters/static/css/main.b493d093.css.map",
+    "main.f9c33b1f.js.map": "/React-HarryPotterCharacters/static/js/main.f9c33b1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b493d093.css",
+    "static/js/main.f9c33b1f.js"
+  ]
+}
